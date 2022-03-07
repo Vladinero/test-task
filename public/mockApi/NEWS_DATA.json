@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "title": "Новость 1 Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+    "preview": "Lorem ipsum dolor sit amet, consectetur adipi exercitationem nesciunt nisi nostrum officia perspiciatis porro quos recusandae vel.",
+    "link": "/",
+    "source": "https://lenta.ru",
+    "date": "01.02.2022",
+    "imageLink": "https://avatars.mds.yandex.net/i?id=f3d1bc8d6d7ed27d2859dfd3eda16d1e-5233238-images-thumbs&n=13&exp=1"
+  },
+  {
+    "id": 2,
+    "title": "Новость 2 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Amet exercitationem expedita illo libero magnam odio sapiente sequi vel velit voluptatum.",
+    "preview": "Lorem ipsum dolor sit amet, consectetur adipi exercitationem nesciunt nisi nostrum officia perspiciatis porro quos recusandae vel.",
+    "link": "/",
+    "source": "https://Mos.ru",
+    "date": "02.02.2022",
+    "imageLink": "https://avatars.mds.yandex.net/i?id=f01dd2c57b0827f4eb3b5888f2597264-5697811-images-thumbs&n=13&exp=1"
+  },
+  {
+    "id": 3,
+    "title": "Новость 3 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Amet exercitationem expedita illo libero magnam odio sapiente sequi vel velit voluptatum.",
+    "preview": "Lorem ipsum dolor sit amet, consectetur adipi exercitationem nesciunt nisi nostrum officia perspiciatis porro quos recusandae vel.",
+    "link": "/",
+    "source": "https://lenta.ru",
+    "date": "03.02.2022",
+    "imageLink": "https://avatars.mds.yandex.net/i?id=f8409684908703053956ec956d9a1d7b-5226469-images-thumbs&n=13&exp=1"
+  },
+  {
+    "id": 4,
+    "title": "Новость 4 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Amet exercitationem expedita illo libero magnam odio sapiente sequi vel velit voluptatum.",
+    "preview": "Lorem ipsum dolor sit amet, consectetur adipi exercitationem nesciunt nisi nostrum officia perspiciatis porro quos recusandae vel.",
+    "link": "/",
+    "source": "https://Mos.ru",
+    "date": "04.02.2022",
+    "imageLink": "https://avatars.mds.yandex.net/i?id=843483d42b0f05cfb86896798bdb7519-5910758-images-thumbs&n=13&exp=1"
+  }
+]
