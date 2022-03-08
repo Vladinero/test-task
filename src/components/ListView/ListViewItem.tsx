@@ -1,7 +1,5 @@
 import LinesEllipsis from 'react-lines-ellipsis'
-
 import {INew} from "../../interfaces/"
-
 
 import classes from "./listViewItem.module.scss"
 
